@@ -1,111 +1,129 @@
-/* Google Fonts - Poppins */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 {
     margin: 0;
-    padding: 0;
+    padding:0;
     box-sizing: border-box;
-font-family: "Poppins", sans-serif;
+    font-family: "Lora", sans-serif;
 }
 
-body{
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding:20px;
-    background:url('lilac.png') no-repeat;
-    background-size: cover;
-    background-position: center;
+
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+background: url('PURPLE\ SKYY.jpeg') no-repeat;
+background-size: cover;
+background-position: center;
 }
-.container {
-    position: relative;
-    max-width: 700px;
-    width: 100%;
+
+.wrapper {
+    width: 420px;
     background: transparent;
-    padding: 60px;
-    border-radius: 8px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-}
-.container header {
-    font-size: 1.5rem;
-    color: black;
-    font-weight: 500;
+    border: 2px solid  rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px;
+ }
+
+.wrapper h1 {
+    font-size: 46px;
     text-align: center;
+    font-family: "Lora", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    
 }
-.container .form {
-margin-top: 40px ;
-}
-.form .input-box {
-    width: 100%;
-    margin-top: 20px;
-}
-.input-box label {
-    color: #333;
-}
-.form .input-box input{
+
+.wrapper .input-box {
     position: relative;
-    height: 50px;
     width: 100%;
+    height: 50px; 
+ margin: 30px 0;
+    }
+
+.input-box input {
+    width: 85%;
+    height: 35%;
+    background: transparent;
+    border: none;
     outline: none;
-    font-size: 1rem;
-    color:#707070;
-    margin-top: 8px;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-    padding: 0 15px;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    font-family:"Lora", serif; 
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
 
 }
-.form .column {
-    display: flex;
-    column-gap: 40px;
-}
-.form .gender-box {
-    margin-top: 20px;
-}
-.gender-box h3 {
-    color: #333;
-    font-size: 1rem;
-    font-weight: 400px; 
-    margin-bottom: 8px;
-}
-.form :where(.gender-option, .gender){
-    display: flex;
-    align-self:center ;
-    column-gap: 50px;
-    flex-wrap: wrap;
-}
-.form .gender {
-    column-gap: 5px;
-}
-.gender input {
-accent-color:rgb(130, 106, 250);
-}
-.form :where(.gender) input, .gender label {
-    cursor: pointer;
-}
-.form button {
-    height: 55px ;
-    width: 100%;
+
+.input-box input::placeholder {
+    color:#fff;
+ }
+
+     .input-box i {
+        position: absolute;
+        right: 25px;
+        top: 60%;
+        transform: translateY(-50%);
+        font-size: 20px;
+     }
+
+     .wrapper .remember-forgot {
+        display: flex;
+        justify-content: space-between;
+        font-size: 14.5px;
+        font-family: "Lora", sans-serif;
+margin: -15px 0 15px; 
+     } 
+
+     .remember-forgot label input {
+        accent-color: #fff;
+        margin-right: 4px;
+  }
+ 
+  .remember-forgot a {
     color: #fff;
-    font-size: 1rem;
-    border: none;
-    margin-top: 30px;
+    text-decoration: none;
+  }
+
+  .remember-forgot a:hover {
+    text-decoration: underline;
+  
+}
+
+.wrapper .btn {
+    width: 100%;
+    height: 45px;
+ background: #fff;
+ border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
     cursor: pointer;
-    border-radius: 6px;
-    font-weight: 400;
-    transition: all 0.3 ease;
-    background-color: rgb(130, 106, 250)
+    font-size: 16px;
+    font-family: "Lora", sans-serif;
+    color: #333;
+    font-weight: 600;
+    transition: 0.1s;
 }
-.form button {
-    background-color: rgb(88, 63, 210)
+
+.wrapper .register-link {
+    font-size: 14.5px;
+    font-family: "Lora", sans-serif;
+    text-align: center;
+    margin: 20px 0 15px;
 }
-/* Responsive */
-@media screen and(max-width: 500px) {
-    .form .column {
-     flex-wrap: wrap;
+
+.register-link p a {
+    color: #fff;
+    text-decoration: none; 
+    font-weight: 600;
 }
-.form :where(.gender-option, .gender) {
-    row-gap: 15px;
-}
+
+.register-link p a:hover {
+    text-decoration: underline;
 }
