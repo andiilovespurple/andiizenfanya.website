@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html> 
+    <head> 
+<link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet">
+    <style> 
+    body {
+        font-family: 'Alice';font-size:20px;
+        <style>
+
+        </style>
+</head>
+<body bgcolor="mediumpurple"
+<header style="font-size:150px;"> 
+    <center> ˖ ᡣ𐭩⊹ ౨ৎ˚₊Astronomy˖₊</center>
+    
+    <center><img src="https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2021-11/milky-way.jpg"style="width:700px"height="400px"></center>
+    
+</header>
+<p style="font-size:20px;color:aliceblue"> 
+Astronomy is the study of everything in the universe beyond Earth's atmosphere. This includes objects that we can see with our naked eyes, such as the Sun, the Moon, the planets, and the stars. It also encompasses objects that can only be observed with telescopes or other instruments, like distant galaxies and tiny particles. Additionally, astronomy explores questions about phenomena that we cannot see at all, such as dark matter and dark energy.
+
+Astronomy is a science that involves the examination of all extraterrestrial objects and phenomena. Until the invention of the telescope and the discovery of the laws of motion and gravity in the 17th century, the field primarily focused on tracking and predicting the positions of the Sun, Moon, and planets. Initially, this was done for calendrical and astrological purposes; later, it evolved to serve navigational needs and scientific interests. 
+ distance, our solar system, the stars that make up the Milky Way Galaxy, and other more distant galaxies. With the advent of scientific space probes, Earth has also come to be studied as one of the planets, although its more detailed investigation remains primarily the focus of Earth sciences.
+    
+</p>
+<hr>
+
+
+<header style="font-size:30px;color:antiquewhite"> 
+
+     <center>  `·..·‘✮ ⋆ ˚｡ ⋆｡°✩ EVERYTHING IN OUR SPACE IS MOVING ALL THE TIME </center> 
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIa35sQl7tngVK9T8D6gzHySMD1osrNA1J2A&usqp=CAU"style="width:700px"height="400px"></center>
+    
+     </header>
+     
+     <p2 style="font-size:20px;color:aliceblue">
+       <li><center>Everything in space is in constant motion, and it can be quite astonishing to think about. While you might feel comfortably still, you’re actually hurtling through the universe at incredible speeds! Imagine Earth as your trusty spaceship, carrying you along this magnificent journey.As you stand in one place, remember that Earth is gently spinning beneath your feet. If you were at the equator, you’d be rotating at around a thousand miles per hour—an impressive speed that often goes unnoticed! And there’s more; our planet is orbiting the Sun, which moves at an astonishing 67,000 miles per hour.
+         
+         But it doesn't stop there. The Sun is gliding around the center of our galaxy, pulling everything in our solar system along at 490,000 miles per hour. Even the Milky Way galaxy itself is on the move, traveling at a breathtaking pace of 872,405 miles per hour. In this vast cosmos, every cluster of galaxies is in motion, reminding us of the incredible and dynamic universe we are a part of. It’s a comforting thought to know that while we may feel small, we are part of something so grand and ever-moving.universe.</li></center>
+         <hr>
+     </p2>
+     
+
+     
+<header style="font-size:30px;color:antiquewhite"> 
+      <center>  `·..·‘✮ ⋆ ˚｡ ⋆｡°✩ OUR UNIVERSE CONTAINS MYSTERIOUS </center> 
+      <center><img src="https://assets.newatlas.com/dims4/default/61a9285/2147483647/strip/true/crop/960x720+0+0/resize/960x720!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fdark-matter-detector-3.jpg"style="width:700px"height="400px"></center>
+
+   </header>
+    <p3 style="font-size:20px;color:aliceblue">
+   <li><center> So far, we’ve discussed objects we can see with 
+   our eyes or detect using instruments, such as galaxies, stars, and planets. These objects, along with trees, puppies, and ourselves, are all classified as matter. However, did you know that there are elements in the universe that we cannot detect, regardless of the tools we use? These elements are known as dark matter and dark energy.
+               
+               Dark matter does not emit light like a galaxy, nor does it absorb light like a black hole. Scientists detect its existence because it has a gravitational pull, similar to normal matter.
+               
+               On the other hand, dark energy is known as a mysterious force that oppose gravity, causing matter to spread apart.
+               
+               Scientists are still discovering more about dark matter and dark energy, but they are diligently researching these phenomena. Perhaps one day, one of those scientists will be you!</li></center>
+               <hr>
+               </p3>
+             
+             
+         
+         
+
+ <header style="font-size:30px;color:antiquewhite"> 
+                                      
+  <center>  `·..·‘✮ ⋆ ˚｡ ⋆｡°✩PLANETARY STUDIES</center>  
+      </header>                            
+   
+<p4 style="font-size:20px;color:aliceblue"> 
+   <center>Magnetic fields exist on some of the planets. The solar wind, which is the outward motion of protons and electrons from the Sun, disturb the Earth's field as it travels outward. The solar wind also carries a magnetic field. Particles from the solar wind and galactic cosmic rays, which are fast particles from outside the solar system, populate two doughnut-shaped regions known as the Van Allen radiation belts by mechanisms that are still not fully understood. The outer belt stretches from around 15,000 to 25,000 km (9,300 to 15,500 miles) above the Earth's surface, while the inner belt stretches from roughly 1,000 to 5,000 km (600 to 3,000 miles). 
+    These belts include trapped particles that, under controlled orbits, swirl around the Earth while bouncing back and forth between the Northern and Southern hemispheres. Mercury is too hot to have an atmosphere, but Venus is entirely covered in dense carbon dioxide clouds that are invisible to the naked eye, giving it a dazzling white look. Venus's atmosphere is hostile and contains clouds of sulfuric acid droplets beneath the top clouds. The planet's surface is protected from direct sunlight by the cloud cover, but when energy does manage to get through, it warms up and emits infrared radiation. Because of the dense clouds' ability to trap long-wavelength infrared radiation, the surface temperature remains close to 465 °C (870 °F, 740 K) due to an effective greenhouse effect. The surface of Venus has been mapped using radar, which can pass through the dense clouds. On the other hand, Mars' atmosphere is extremely thin, With only a small amount of water vapor and a 95 percent carbon dioxide composition, the planet's surface pressure is only 0.006 that of Earth. The atmospheres of the outer planets are mostly made up of light gases, mostly helium and hydrogen.
+    As seen from above the ecliptic, almost all of the planets rotate counterclockwise, with each planet rotating on its own axis. The two exceptions are Uranus, which has its rotation axis almost exactly in the plane of the ecliptic, and Venus, which rotates clockwise beneath its cloud cover.Jupiter's synchrotron radiation, which is electromagnetic radiation released by fast-moving charged particles that are compelled to follow curved pathways, is detectable from Earth because it has a magnetic field that is much stronger than Earth's and has a lot more trapped electrons. The location of Io, the innermost of Jupiter's four Galilean moons, is associated with spikes in radio emission. Saturn also possesses a zone of imprisoned particles, although its magnetic field is far weaker than Jupiter's. There is no indication of trapped particles in Mercury's feeble magnetic field, which is only 1% as powerful as Earth's. The fields of Uranus and Neptune are weaker than a tenth of Saturn's and seem much more complex than that of Earth. No field has been detected around Venus or Mars.
+              </p4>
+            <hr>
+            
+            
+<header style="font-size:30px;color:antiquewhite"> 
+<center>  `·..·‘✮ ⋆ ˚｡ ⋆｡°✩STUDY OF THE MILKY WAY GALAXY</center>  
+     </header>
+                                
+            <p5 style="font-size:20px;color:aliceblue"> 
+                    <center>Stars are not distributed randomly throughout space. Many stars are in systems consisting of two or three members separated by less than 1,000 AU. On a larger scale, star clusters may contain many thousands of stars. Galaxies are much larger systems of stars and usually include clouds of gas and dust.
+            The solar system is located within the Milky Way Galaxy, close to its equatorial plane and about 8 kiloparsecs from the galactic center. The galactic diameter is about 30 kiloparsecs, as indicated by luminous matter. There is evidence, however, for nonluminous matter—so-called dark matter—extending out nearly twice this distance. The entire system is rotating such that, at the position of the Sun, the orbital speed is about 220 km per second (almost 500,000 miles per hour), and a complete circuit takes roughly 240 million years. Application of Kepler’s third law leads to an estimate for the galactic mass of about 100 billion solar masses. 
+            The rotational velocity can be measured from the Doppler shifts observed in the 21-cm emission line of neutral hydrogen and the lines of millimeter wavelengths from various molecules, especially carbon monoxide. At great distances from the galactic center, the rotational velocity does not drop off as expected but rather increases slightly. This behavior appears to require a much larger galactic mass than can be accounted for by the known (luminous) matter. Additional evidence for the presence of dark matter comes from a variety of other observations. The nature and extent of the dark matter (or missing mass) constitutes one of today’s major astronomical puzzles.
+        </p5>
+        <hr>
+          
+            
+             <p6 style="font-size:20px;color:aliceblue"> 
+            Galaxies are classified into three principal types according to their appearance: spiral, elliptical, and irregular. Galactic diameters are typically in the tens of kiloparsecs, and the distances between galaxies are typically in megaparsecs.
+            
+            Spiral galaxies—of which the Milky Way system is a characteristic example—tend to be flattened, roughly circular systems with their constituent stars strongly concentrated along spiral arms. These arms are thought to be produced by traveling density waves, which compress and expand the galactic material. Between the spiral arms exists a diffuse interstellar medium of gas and dust, mostly at very low temperatures (below 100 K [−280 °F, −170 °C]). Spiral galaxies are typically a few kiloparsecs in thickness; they have a central bulge and taper gradually toward the outer edges.
+            Ellipticals show none of the spiral features but are more densely packed stellar systems. They range in shape from nearly spherical to very flattened and contain little interstellar matter. Irregular galaxies number only a few percent of all stellar systems and exhibit none of the regular features associated with spirals or ellipticals.</center>
+            
+            </p6>
+            <hr>
+            
+     
+            
+                        
+            
+            
+            
+                 <header style="font-size:30px;color:antiquewhite"> 
+                 <center>  `·..·‘✮ ⋆ ˚｡ ⋆｡°✩COSMOLOGY</center>  
+                 <center><img src="https://clenta.com/wp-content/uploads/2024/09/cosmology-poster.webp"style="width:700px"height:400px"></center>             
+ 
+ </header>
+                 <p7 style="font-size:20px;color:aliceblue"> 
+Cosmology is the scientific study of the universe, from its earliest moments through its evolution to its ultimate fate. The currently accepted cosmological model is the Big Bang. In this picture, the expansion of the universe started in an intense explosion 13.8 billion years ago. In this primordial fireball, the temperature exceeded one trillion K, and most of the energy was in the form of radiation. As the expansion proceeded (accompanied by cooling), the role of the radiation diminished, and other physical processes dominated in turn. Thus, after about three minutes, the temperature had dropped to the one-billion-K range, making it possible for nuclear reactions of protons to take place and produce nuclei of deuterium and helium. (At the higher temperatures that prevailed earlier, these nuclei would have been promptly disrupted by high-energy photons.) With further expansion, the time between nuclear collisions had increased and the proportion of deuterium and helium nuclei had stabilized. After a few hundred thousand years, the temperature must have dropped sufficiently for electrons to remain attached to nuclei to constitute atoms. Galaxies are thought to have begun forming after a few million years, but this stage is very poorly understood. Starformation probably started much later, after at least a billion years, and the process continues today
+                             
+                             </p7>
+                             <hr>
+                             
+                             
+                             
+<header style="font-size:50px;"> 
+<center> ˖ ᡣ𐭩⊹ ౨ৎ˚₊ Made by Andrhea felyssa Gajo˖₊</center>
+                                 
+                             
+                             
+                             
+                             
+                             </body>
+                             </html>
+                             
